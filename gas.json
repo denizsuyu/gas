@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "type": "otogaz",
+        "company": "tp",
+        "liter": 8.760,
+        "literPrice": 4.160,
+        "totalPrice": 36.44,
+        "totalKilometer": 188920
+    },
+    {
+        "id": 2,
+        "type": "otogaz",
+        "company": "opet",
+        "liter": 2.680,
+        "literPrice": 4.100,
+        "totalPrice": 11,
+        "totalKilometer": 188937
+    },
+    {
+        "id": 3,
+        "type": "otogaz",
+        "company": "bp",
+        "liter": 8.960,
+        "literPrice": 3.5,
+        "totalPrice": 31.36,
+        "totalKilometer": 189003
+    }
+]
