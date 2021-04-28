@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "date": "08.04.2021",
         "type": "otogaz",
         "company": "tp",
         "liter": 8.760,
@@ -10,6 +11,7 @@
     },
     {
         "id": 2,
+        "date": "15.04.2021",
         "type": "otogaz",
         "company": "opet",
         "liter": 2.680,
@@ -19,6 +21,7 @@
     },
     {
         "id": 3,
+        "date": "26.04.2021",
         "type": "otogaz",
         "company": "bp",
         "liter": 8.960,
