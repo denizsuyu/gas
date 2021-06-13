@@ -48,5 +48,15 @@
         "literPrice": 3.850,
         "totalPrice": 47.32,
         "totalKilometer": 189179
+    },
+    {
+        "id": 6,
+        "date": "11.06.2021",
+        "type": "otogaz",
+        "company": "bp",
+        "liter": 10.390,
+        "literPrice": 3.850,
+        "totalPrice": 40,
+        "totalKilometer": 189284
     }
 ]
