@@ -1,6 +1,16 @@
 [
     {
         "id": 1,
+        "date": "30.05.2023",
+        "type": "dizel",
+        "company": "opet",
+        "liter": 1,
+        "literPrice": 1,
+        "totalPrice": 432.04,
+        "totalKilometer": 193499
+    },
+    {
+        "id": 2,
         "date": "22.06.2023",
         "type": "dizel",
         "company": "opet",
@@ -10,7 +20,7 @@
         "totalKilometer": 193935
     },
     {
-        "id": 2,
+        "id": 3,
         "date": "25.06.2023",
         "type": "dizel",
         "company": "opet",
@@ -20,7 +30,7 @@
         "totalKilometer": 194654
     },
     {
-        "id": 3,
+        "id": 4,
         "date": "25.06.2023",
         "type": "dizel",
         "company": "po",
@@ -30,7 +40,7 @@
         "totalKilometer": 195222
     },
     {
-        "id": 4,
+        "id": 5,
         "date": "25.06.2023",
         "type": "dizel",
         "company": "opet",
