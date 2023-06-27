@@ -1,132 +1,32 @@
 [
     {
         "id": 1,
-        "date": "08.04.2021",
-        "type": "otogaz",
-        "company": "tp",
-        "liter": 8.760,
-        "literPrice": 4.160,
-        "totalPrice": 36.44,
-        "totalKilometer": 188920
+        "date": "25.06.2023",
+        "type": "dizel",
+        "company": "opet",
+        "liter": 33.73,
+        "literPrice": 24.610,
+        "totalPrice": 830.10,
+        "totalKilometer": 194654
     },
     {
         "id": 2,
-        "date": "15.04.2021",
-        "type": "otogaz",
-        "company": "opet",
-        "liter": 2.680,
-        "literPrice": 4.100,
-        "totalPrice": 11,
-        "totalKilometer": 188937
+        "date": "25.06.2023",
+        "type": "dizel",
+        "company": "po",
+        "liter": 26.43,
+        "literPrice": 24.983,
+        "totalPrice": 660.22,
+        "totalKilometer": 195222
     },
     {
         "id": 3,
-        "date": "26.04.2021",
-        "type": "otogaz",
-        "company": "bp",
-        "liter": 8.960,
-        "literPrice": 3.5,
-        "totalPrice": 31.36,
-        "totalKilometer": 189003
-    },
-    {
-        "id": 4,
-        "date": "26.05.2021",
-        "type": "otogaz",
-        "company": "bp",
-        "liter": 7.020,
-        "literPrice": 3.850,
-        "totalPrice": 27.03,
-        "totalKilometer": 189063
-    },
-    {
-        "id": 5,
-        "date": "07.06.2021",
-        "type": "otogaz",
-        "company": "bp",
-        "liter": 12.290,
-        "literPrice": 3.850,
-        "totalPrice": 47.32,
-        "totalKilometer": 189179
-    },
-    {
-        "id": 6,
-        "date": "11.06.2021",
-        "type": "otogaz",
-        "company": "bp",
-        "liter": 10.390,
-        "literPrice": 3.850,
-        "totalPrice": 40,
-        "totalKilometer": 189284
-    },
-    {
-        "id": 7,
-        "date": "15.06.2021",
-        "type": "otogaz",
-        "company": "bp",
-        "liter": 8.440,
-        "literPrice": 3.850,
-        "totalPrice": 32.49,
-        "totalKilometer": 189370
-    },
-    {
-        "id": 8,
-        "date": "17.06.2021",
-        "type": "otogaz",
-        "company": "bp",
-        "liter": 10.390,
-        "literPrice": 3.850,
-        "totalPrice": 40,
-        "totalKilometer": 189487
-    },
-    {
-        "id": 9,
-        "date": "21.06.2021",
-        "type": "otogaz",
-        "company": "bp",
-        "liter": 6.690,
-        "literPrice": 3.850,
-        "totalPrice": 25.76,
-        "totalKilometer": 189535
-    },
-    {
-        "id": 10,
-        "date": "24.06.2021",
-        "type": "otogaz",
-        "company": "bp",
-        "liter": 10.190,
-        "literPrice": 3.850,
-        "totalPrice": 39.23,
-        "totalKilometer": 189656
-    },
-    {
-        "id": 11,
-        "date": "24.06.2021",
-        "type": "otogaz",
-        "company": "bp",
-        "liter": 12.080,
-        "literPrice": 3.850,
-        "totalPrice": 46.51,
-        "totalKilometer": 189804
-    },
-    {
-        "id": 12,
-        "date": "28.06.2021",
-        "type": "otogaz",
-        "company": "bp",
-        "liter": 7.460,
-        "literPrice": 3.850,
-        "totalPrice": 28.72,
-        "totalKilometer": 189878
-    },
-    {
-        "id": 13,
-        "date": "30.06.2021",
-        "type": "otogaz",
-        "company": "bp",
-        "liter": 12.730,
-        "literPrice": 3.850,
-        "totalPrice": 49.01,
-        "totalKilometer": 190004
+        "date": "25.06.2023",
+        "type": "dizel",
+        "company": "opet",
+        "liter": 12.01,
+        "literPrice": 24.980,
+        "totalPrice": 300.01,
+        "totalKilometer": 195467
     }
 ]
