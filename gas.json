@@ -358,5 +358,15 @@
         "literPrice": 44.44,
         "totalPrice": 840.00,
         "totalKilometer": 212726
+    },
+    {
+        "id": 37,
+        "date": "09.09.2024",
+        "type": "dizel",
+        "company": "opet",
+        "liter": 20.96,
+        "literPrice": 43.21,
+        "totalPrice": 905.68,
+        "totalKilometer": 213253
     }
 ]
