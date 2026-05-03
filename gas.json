@@ -778,5 +778,15 @@
         "literPrice": 76.55,
         "totalPrice": 1915.28,
         "totalKilometer": 233947
+    },
+    {
+        "id": 79,
+        "date": "03.05.2026",
+        "type": "dizel",
+        "company": "opet",
+        "liter": 37.32,
+        "literPrice": 71.66,
+        "totalPrice": 2674.35,
+        "totalKilometer": 234507
     }
 ]
