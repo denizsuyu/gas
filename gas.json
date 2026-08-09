@@ -1,5 +1,15 @@
 [
     {
+        "id": 0,
+        "date": "02.06.2022",
+        "type": "dizel",
+        "company": "opet",
+        "liter": 1,
+        "literPrice": 1,
+        "totalPrice": 1,
+        "totalKilometer": 180000
+    },
+    {
         "id": 1,
         "date": "30.05.2023",
         "type": "dizel",
